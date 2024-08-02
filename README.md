@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riatandon
-- 👀 I’m interested in data science and analytics, particularly in healthcare and behavioral science applications.
+- 👀 I’m interested in data science and analytics, particularly in the healthcare industry.
 - 🌱 I’m studying data science at the University of Michigan
 - 📫 Connect with me on Linkedin: [http://linkedin.com/in/ria-tandon05](url)
 - 😄 Pronouns: she/her
